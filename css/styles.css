@@ -1,0 +1,33 @@
+h1{
+    color:darkred;
+    text-align: center;
+}
+#men{
+    background-image: url("../images/dior\ back\ 2.webp");
+}
+.test{
+    background-color: darkgrey;
+}
+p{
+    color: darkblue;
+    font-size: 25px;
+}
+.jay{
+    background-color: burlywood;
+}
+.fan
+{
+    color:darkgreen;
+}
+h2{
+    color:red;
+    font-size: 30px;
+    text-align:left;
+    text-decoration: underline;
+}
+h3{
+    color:purple;
+font-size: 30px;
+text-align: center;
+text-decoration: underline;
+}
